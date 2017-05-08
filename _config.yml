@@ -67,3 +67,5 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+
+theme: jekyll-theme-cayman
