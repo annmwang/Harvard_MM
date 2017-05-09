@@ -2,7 +2,7 @@
 layout: post
 title: References
 excerpt: "Useful documents to read about the MM effort"
-categories: [data]
+categories: [documentation]
 comments: true
 ---
 
