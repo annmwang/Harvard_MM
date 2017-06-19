@@ -8,6 +8,23 @@ comments: true
 
 ON = original notes at the beginning of this log
 
+Status of boards, 2017/07/19
+
+| Serial | IP | MAC | Rev | Notes |
+|--------|--------|--------|--------|--------|
+| 62  | 105 | x05 | C | In the octuplet |
+| 159 | 117 | x11 | D | Broken |
+| 148 | 107 | x07 | D | In the octuplet |
+| 149 | 106 | x06 | D | In the octuplet |
+| 160 | 119 | x13 | D | In the octuplet |
+| 641 | 120 | x14 | C | Mystery board | 
+| 114 | 102 | x02 | D | Out of octuplet, ~50% of channels broken |
+| 156 | 116 | x10 | D | FPGA broken |
+| 135 | 118 | x12 | D | In the octuplet |
+| 132 | 101 | x01 | D | In the octuplet, ~1.5 VMMs broken |
+| 639 | 111 | x0b | C | In the octuplet|
+|=====
+
 Status of boards, 2017/07/14
 
 | Serial | IP | MAC | Rev | Notes |
