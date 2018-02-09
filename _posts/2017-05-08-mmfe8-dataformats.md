@@ -8,6 +8,9 @@ comments: true
 
 [xx](https://github.com/crogan/MMFE8_DataFormats) code
 
+First release, for Runs 3530 and earlier:
+[v1](https://github.com/crogan/MMFE8_DataFormats/releases)
+
 ### Notes
 
 ## Code Snippets

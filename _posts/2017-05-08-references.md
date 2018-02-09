@@ -10,6 +10,7 @@ comments: true
 
 ### ATLAS internal notes
 
+* [ATL-COM-MUON-2018-003](https://cds.cern.ch/record/2302523)     Diamond-paved roads and steaming soup: the architecture of an upgraded Micromegas trigger processor and its optimization tool
 * [ATL-COM-MUON-2017-052](https://cds.cern.ch/record/2287577)     All the sparks we cannot see
 * [ATL-COM-MUON-2017-049](https://cds.cern.ch/record/2285496)     Test of the Micromegas Trigger Processor with Cosmic Ray Muons
 * [ATL-COM-MUON-2017-040](https://cds.cern.ch/record/2277316)     Performance of a Micromegas octuplet after removing the major cause of noise
