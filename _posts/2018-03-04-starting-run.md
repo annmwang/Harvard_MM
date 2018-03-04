@@ -60,4 +60,14 @@ python udpRecDesp_32bit.py
 sudo renice -18 -p <PID>
 {% endhighlight %}
 
+#### Take out the pin to start DAQ
+
+#### Event displays
+
+* Go to /data/mm_2016/mm_daq/python
+* For trigger display, add "-t"
+{% highlight shell %}
+while true; do python ascii_display.py -r <run_number> -l; sleep 1; clear; done
+{% endhighlight %}
+
 
