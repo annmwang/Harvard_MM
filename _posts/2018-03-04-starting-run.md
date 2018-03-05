@@ -70,4 +70,11 @@ sudo renice -18 -p <PID>
 while true; do python ascii_display.py -r <run_number> -l; sleep 1; clear; done
 {% endhighlight %}
 
+#### Turn on monitoring
+
+* Go to /data/mm_2016/mm_daq/python
+{% highlight shell %}
+python daemon.py
+{% endhighlight %}
+
 
