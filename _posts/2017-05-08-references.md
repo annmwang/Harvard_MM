@@ -10,6 +10,7 @@ comments: true
 
 ### ATLAS internal notes
 
+* [ATL-COM-MUON-2018-015](https://cds.cern.ch/record/2311028)     Final report on the performance of the Harvard Micromegas octuplet instrumented with VMM2 MMFE8 front-end boards
 * [ATL-COM-MUON-2018-003](https://cds.cern.ch/record/2302523)     Diamond-paved roads and steaming soup: the architecture of an upgraded Micromegas trigger processor and its optimization tool
 * [ATL-COM-MUON-2017-052](https://cds.cern.ch/record/2287577)     All the sparks we cannot see
 * [ATL-COM-MUON-2017-049](https://cds.cern.ch/record/2285496)     Test of the Micromegas Trigger Processor with Cosmic Ray Muons
