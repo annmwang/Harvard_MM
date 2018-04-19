@@ -26,6 +26,7 @@ comments: true
 
 ### Miscellaneous
 
+* [VMM3a specifications](https://twiki.cern.ch/twiki/pub/Atlas/NSWelectronics/vmm3a.pdf)
 * [VMM2 datasheet](https://twiki.cern.ch/twiki/pub/Atlas/NSWelectronics/VMM2_datasheet_v15.pdf)
 * [Trigger Design Review](https://svnweb.cern.ch/cern/wsvn/NSWELX/TriggerProcessor/documentation/DesignReviewFeb2015/TriggerProcessorDRR/TriggerProcessorDRR.pdf)
 * [CTGF system](https://indico.cern.ch/event/676702/contributions/2818995/attachments/1575408/2487615/CTGF.pdf)
@@ -33,3 +34,4 @@ comments: true
 * [South Africa Muon Week 2018](https://indico.cern.ch/event/671180/)
 * [Jan. 2018 VS Week Report](https://indico.cern.ch/event/693842/contributions/2859171/attachments/1597404/2530997/2018_02_08_NSW_ELX_VS.pdf)
 * [April 2018 NSW workshop](https://indico.cern.ch/event/716065/)
+* [TB configuration presentations](https://indico.cern.ch/event/671377/)
