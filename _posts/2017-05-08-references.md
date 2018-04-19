@@ -10,6 +10,7 @@ comments: true
 
 ### ATLAS internal notes
 
+* [ATL-COM-MUON-2018-017](https://cds.cern.ch/record/2312386)     Commissioning of the Upgraded Micromegas Trigger Processor Algorithm with Cosmic Ray Muons
 * [ATL-COM-MUON-2018-015](https://cds.cern.ch/record/2311028)     Final report on the performance of the Harvard Micromegas octuplet instrumented with VMM2 MMFE8 front-end boards
 * [ATL-COM-MUON-2018-003](https://cds.cern.ch/record/2302523)     Diamond-paved roads and steaming soup: the architecture of an upgraded Micromegas trigger processor and its optimization tool
 * [ATL-COM-MUON-2017-052](https://cds.cern.ch/record/2287577)     All the sparks we cannot see
@@ -27,3 +28,8 @@ comments: true
 
 * [VMM2 datasheet](https://twiki.cern.ch/twiki/pub/Atlas/NSWelectronics/VMM2_datasheet_v15.pdf)
 * [Trigger Design Review](https://svnweb.cern.ch/cern/wsvn/NSWELX/TriggerProcessor/documentation/DesignReviewFeb2015/TriggerProcessorDRR/TriggerProcessorDRR.pdf)
+* [CTGF system](https://indico.cern.ch/event/676702/contributions/2818995/attachments/1575408/2487615/CTGF.pdf)
+* [NSW ADDC/L1DDC FDR, FEBs IDR](https://indico.cern.ch/event/662395/)
+* [South Africa Muon Week 2018](https://indico.cern.ch/event/671180/)
+* [Jan. 2018 VS Week Report](https://indico.cern.ch/event/693842/contributions/2859171/attachments/1597404/2530997/2018_02_08_NSW_ELX_VS.pdf)
+* [April 2018 NSW workshop](https://indico.cern.ch/event/716065/)
