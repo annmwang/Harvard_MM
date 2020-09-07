@@ -6,7 +6,7 @@ categories: [code]
 comments: true
 ---
 
-[xx](https://github.com/sezata/trigger_daq) code
+[xx](https://github.com/annmwang/trigger_daq) code
 
 ### Notes
 
