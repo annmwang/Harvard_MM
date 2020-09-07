@@ -6,7 +6,7 @@ categories: [code]
 comments: true
 ---
 
-[xx](https://github.com/sezata/octuplet_analysis) code
+[xx](https://github.com/annmwang/octuplet_analysis) code
 
 ### Notes
 
